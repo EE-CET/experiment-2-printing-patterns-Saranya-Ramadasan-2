@@ -13,7 +13,7 @@ public class PatternPrinting {
                 System.out.println("*");
             }
         }
-        sc.close();
+  
     }
     
 }
